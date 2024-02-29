@@ -1,0 +1,4 @@
+node_modules: /node_modules/
+.o, .pyc, *.class
+.tmp, .lock
+.idea/workspace.xml
